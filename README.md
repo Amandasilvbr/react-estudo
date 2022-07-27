@@ -5,10 +5,11 @@
     1-Eventos;
     2-Renderização condicional;
     3-Renderização de múltiplos componentes
-    4-Estados;
+    4-State- componentes de classe;
+    5-State- Hooks.
  
 ✔️ Cada arquivo possui comentários adicionais, com explicações para auxiliar o aprendizado.
 
-_A notação "!!" refere-se a pontos importantes sobre a sintaxe ou padrões do React a serem seguidos_
+_A notação "!!" refere-se a pontos importantes sobre a atualização, a sintaxe ou padrões do React a serem seguidos_
 
 🌱 Esse projeto está sujeito a melhorias. Sugestões e opiniões sobre o código são sempre bem-vindas!
