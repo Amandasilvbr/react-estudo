@@ -1,3 +1,4 @@
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 # Olá! Esse repositório é um repositório de estudo sobre o React!
 
 ✔️ Aqui, as pastas do create app react não foram adicionadas, pois o foco é no estudo dos seguintes tópicos:
